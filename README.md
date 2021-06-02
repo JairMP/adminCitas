@@ -5,7 +5,7 @@ This project was made with [Create React App](https://github.com/facebook/create
 ## Demo
 
 You can find a demo here:
-(https://citasproject.netlify.app/)
+(https://appointmentmanagereact.netlify.app/)
 
 
 ## Available Scripts
